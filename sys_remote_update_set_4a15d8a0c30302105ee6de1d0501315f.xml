@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-23 22:25:10">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>STRY001-Rule-RK-V1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>b18e12c8c30302105ee6de1d050131d3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-06-23 22:25:10</sys_created_on>
+<sys_id>4a15d8a0c30302105ee6de1d0501315f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-06-23 22:25:10</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>dl_u_assignment_d740264cc30302105ee6de1d050131d5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment"><dl_u_assignment action="INSERT_OR_UPDATE"><active>true</active><assigned_to/><assignment_group display_value="Help Desk" name="Help Desk">679434f053231300e321ddeeff7b12d8</assignment_group><category>inquiry</category><cmdb_ci/><location/><order>100</order><subcategory>cpu</subcategory><sys_class_name>dl_u_assignment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-22 19:17:13</sys_created_on><sys_id>d740264cc30302105ee6de1d050131d5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>dl_u_assignment_d740264cc30302105ee6de1d050131d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-22 19:19:36</sys_updated_on></dl_u_assignment></record_update>]]></payload>
+<payload_hash>-59321894</payload_hash>
+<remote_update_set display_value="STRY001-Rule-RK-V1">4a15d8a0c30302105ee6de1d0501315f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-06-23 22:25:10</sys_created_on>
+<sys_id>4e15d8a0c30302105ee6de1d0501315f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1904163c9600000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-06-23 22:25:10</sys_updated_on>
+<table/>
+<target_name>100</target_name>
+<type>Assignment Data Lookup</type>
+<update_domain>global</update_domain>
+<update_guid>4601e28c6e03021095da72a06c9418f5</update_guid>
+<update_guid_history>4601e28c6e03021095da72a06c9418f5:-59321894,cf702a4c7b0302107d8612b70f173d66:1584411783</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
